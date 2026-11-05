@@ -5,6 +5,12 @@ When confidence is below a threshold, it sends the picture to a human
 for review instead of making a confident wrong guess. Human labels are
 saved for a future batch retrain.
 
+## Live demo
+
+Try it yourself — the interactive showcase with the real results from this run, including the try-it box, threshold slider, and human review queue:
+
+**https://hercodes-ux.github.io/Deep-Learning-Computer-Vision-Lab/demo/**
+
 ## Model
 
 - Dataset: CIFAR-10 — 50,000 train / 10,000 test, 32×32, 10 classes
