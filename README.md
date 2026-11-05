@@ -66,7 +66,7 @@ Unsure pictures (confidence < 0.50) go to a human review queue with
 their top 3 guesses. The human gives a label, not a confidence number.
 Labels are saved in `human_review_labels.json` (6,167 entries at 0.50)
 for a future batch retrain. The model replies:
-"got it, thank for review, i am still learning"
+"Got it, thanks for the review — I'm still learning."
 
 Important: these labels are for retraining on new pictures later.
 The model was NOT retrained on the test set, and the test set was
